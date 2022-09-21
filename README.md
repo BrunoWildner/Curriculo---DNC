@@ -2,4 +2,4 @@
  Minha primeira experiência com HTML e CSS. 
  Aula DNC
  
- My first experience with HTML and CSS
+ My first HTML and CSS experience
